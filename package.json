@@ -1,0 +1,24 @@
+{
+  "name": "zepto-event-fixed",
+  "version": "1.0.0",
+  "description": "zepto event bugfix",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziluo/zepto-event-fixed.git"
+  },
+  "keywords": [
+    "zepto",
+    "event",
+    "bugfix"
+  ],
+  "author": "ziluo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziluo/zepto-event-fixed/issues"
+  },
+  "homepage": "https://github.com/ziluo/zepto-event-fixed"
+}
